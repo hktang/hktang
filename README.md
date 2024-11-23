@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**hktang/hktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "X Deng",
+    "url": "https://github.com/hktang",
+    "sameAs": [
+        "https://www.linkedin.com/in/xiaojun-deng"
+    ],
+    "knowsAbout": [
+        "Javascript",
+        "TypeScript",
+        "PHP",
+        "Python",
+        "React",
+        "NextJS",
+        "Laravel",
+        "Symfony",
+        "Drupal",
+    ],
+    "email": "mailto:deng@hey.com",
+}
+```
