@@ -17,6 +17,7 @@
         "React",
         "NextJS",
         "Laravel",
+        "Docker",
         "Symfony",
         "Drupal",
     ],
