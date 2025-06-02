@@ -20,6 +20,7 @@
         "Docker",
         "Symfony",
         "Drupal",
+        "FastAPI"
     ],
     "email": "mailto:deng@hey.com",
 }
